@@ -21,7 +21,7 @@ Garantir, por meio de testes automatizados, que as funcionalidades principais da
 
 ---
 
-## ⚙️ Como Executar os Testes
+## Como Executar os Testes
 
 ### 1. Clone este repositório
 
