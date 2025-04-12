@@ -1,23 +1,23 @@
-# 🐾 Adote Fácil - Testes End-to-End com Cypress
+# Adote Fácil - Testes End-to-End com Cypress
 
 Este repositório contém testes automatizados de aceitação (E2E) desenvolvidos com [Cypress](https://www.cypress.io/), aplicados ao projeto **Adote Fácil**, uma plataforma para facilitar a adoção de animais.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Garantir, por meio de testes automatizados, que as funcionalidades principais da aplicação estão funcionando corretamente sob o ponto de vista do usuário final.
 
 ---
 
-## 🧪 Funcionalidades Testadas
+## Funcionalidades Testadas
 
-| Cenário                           | Rota testada                             | Descrição                                                                 |
-|----------------------------------|------------------------------------------|---------------------------------------------------------------------------|
-| ✅ Cadastro de um animal         | `/area_logada/disponibilizar_animal`     | Preenche o formulário e verifica se o animal foi cadastrado com sucesso. |
-| ✅ Pesquisa de animais           | `/area_logada/animais_disponiveis`       | Busca por um animal específico e verifica o resultado.                   |
-| ✅ Visualização de detalhes      | `/area_logada/animais_disponiveis`       | Clica em um animal e verifica se os detalhes são exibidos.               |
-| ✅ Adoção de animal              | `/area_logada/animais_disponiveis`       | Inicia o processo de adoção e valida a mensagem de confirmação.          |
+| Cenário                       | Rota testada                             | Descrição                                                                |
+|-------------------------------|------------------------------------------|--------------------------------------------------------------------------|
+| Cadastro de um animal         | `/area_logada/disponibilizar_animal`     | Preenche o formulário e verifica se o animal foi cadastrado com sucesso. |
+| Pesquisa de animais           | `/area_logada/animais_disponiveis`       | Busca por um animal específico e verifica o resultado.                   |
+| Visualização de detalhes      | `/area_logada/animais_disponiveis`       | Clica em um animal e verifica se os detalhes são exibidos.               |
+| Adoção de animal              | `/area_logada/animais_disponiveis`       | Inicia o processo de adoção e valida a mensagem de confirmação.          |
 
 ---
 
